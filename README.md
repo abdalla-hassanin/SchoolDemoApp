@@ -9,15 +9,6 @@
 </table>
 <table>
   <tr>
-    <td>
-     <video width="640" height="360" controls>
-  <source src="/assets/screenshots/video.mp4" type="video/mp4">
-</video>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
      <td>Splash Screen</td>
      <td>Login Screen</td>
      <td>Register Screen</td>
@@ -44,7 +35,9 @@
     <td><img src="/assets/screenshots/studentexam.png" width=270 ></td>
   </tr>
  </table>
-
+ <video width="640" height="360" controls>
+  <source src="/assets/screenshots/video.mp4" type="video/mp4">
+</video>
 <br> Please star⭐ the repo if you like what you see.
 
 
