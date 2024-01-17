@@ -7,6 +7,10 @@
     </td>
   </tr>
 </table>
+ <video width="640" height="360" controls>
+  <source src="/assets/screenshots/video.mp4" type="video/mp4">
+Watch this video !!!
+</video>
 <table>
   <tr>
      <td>Splash Screen</td>
@@ -35,9 +39,7 @@
     <td><img src="/assets/screenshots/studentexam.png" width=270 ></td>
   </tr>
  </table>
- <video width="640" height="360" controls>
-  <source src="/assets/screenshots/video.mp4" type="video/mp4">
-</video>
+
 <br> Please star⭐ the repo if you like what you see.
 
 
