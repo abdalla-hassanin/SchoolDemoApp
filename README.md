@@ -9,6 +9,7 @@
 </table>
 <video width="640" height="360" controls>
   <source src="/assets/screenshots/video.mp4" type="video/mp4">
+Watch the video!!
 </video>
 
 <table>
