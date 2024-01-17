@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182018769663",
+    "project_id": "sahlschoolapp",
+    "storage_bucket": "sahlschoolapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182018769663:android:b44a1634ec9792aeaa02ca",
+        "android_client_info": {
+          "package_name": "com.sahl.sahl_school_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDciyilmb7bNn-jvk77xbZqLIJI-dvd638"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
