@@ -7,6 +7,10 @@
     </td>
   </tr>
 </table>
+<video width="640" height="360" controls>
+  <source src="/assets/screenshots/video.mp4" type="video/mp4">
+</video>
+
 <table>
   <tr>
      <td>Splash Screen</td>
