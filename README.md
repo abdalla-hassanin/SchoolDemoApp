@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="assets/images/logo.png" height=100 width=100 align="left"> 
+      <img src="/assets/images/logo.png" height=100 width=100 align="left"> 
     </td>
   </tr>
 </table>
