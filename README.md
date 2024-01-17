@@ -3,15 +3,10 @@
 <table>
   <tr>
     <td>
-      <img src="/assets/images/logo.png" height=100 width=100 align="left"> 
+      <img src="assets/images/logo.png" height=100 width=100 align="left"> 
     </td>
   </tr>
 </table>
-<video width="640" height="360" controls>
-  <source src="/assets/screenshots/video.mp4" type="video/mp4">
-Watch the video!!
-</video>
-
 <table>
   <tr>
      <td>Splash Screen</td>
@@ -40,7 +35,9 @@ Watch the video!!
     <td><img src="/assets/screenshots/studentexam.png" width=270 ></td>
   </tr>
  </table>
-
+ <video width="640" height="360" controls>
+  <source src="/assets/screenshots/video.mp4" type="video/mp4">
+</video>
 <br> Please star⭐ the repo if you like what you see.
 
 
